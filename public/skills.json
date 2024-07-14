@@ -1,0 +1,47 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "https://i.postimg.cc/B66R3cYJ/html.png",
+    "description": "The HyperText Markup Language Or HTML Is The Standard Markup Language For Documents Designed To Be Displayed In A Web Browser."
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "https://i.postimg.cc/gcwkqvz9/css.png",
+    "description": "Cascading Style Sheets Is A Style Sheet Language Used For Specifying The Presentation And Styling Of A Document Written In A Markup Language Such As HTML Or XML."
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "https://i.postimg.cc/P5J6PrbM/learn-javascript-on-mac.webp",
+    "description": "JavaScript Is A Scripting Language That Enables You To Create Dynamically Updating Content, Control Multimedia, Animate Images, And Pretty Much Everything Else"
+  },
+  {
+    "title": "React",
+    "imageSrc": "https://i.postimg.cc/2SQs75LN/react.png",
+    "description": "React Is A Free And Open-Source Front-End JavaScript Library For Building User Interfaces Based On Components. It Is Maintained By Meta And A Community Of Individual Developers And Companies."
+  },
+  {
+    "title": "Node",
+    "imageSrc": "https://i.postimg.cc/5tfZ7M8Y/node.png",
+    "description": "Next.Js Is A React Framework For Building Full-Stack Web Applications. You Use React Components To Build User Interfaces, And Next.Js For Additional Features And Optimizations. Under The Hood, Next.Js Also Abstracts And Automatically Configures Tooling Needed For React, Like Bundling, Compiling, And More."
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "https://i.postimg.cc/yx35g6C5/firebase.png",
+    "description": "COMMON USE products together to solve complex app development challenges and optimize your app experience. Learn how to personalize your onboarding flow, grow user engagement, or add new functionality with Firebase."
+  },
+  {
+    "title": "GraphQL",
+    "imageSrc": "https://i.postimg.cc/d1xpVkpr/graphql.png",
+    "description": "GraphQL is a query language for APIs and a runtime for fulfilling those queries with your existing data. GraphQL provides a complete and understandable description of the data in your API, gives clients the power to ask for exactly what they need and nothing more, makes it easier to evolve APIs over time, and enables powerful developer tools."
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "https://i.postimg.cc/k5wLLhyj/mongodb.png",
+    "description": "MongoDB Atlas is an integrated suite of data services centered around a cloud database designed to accelerate and simplify how you build with data. Build faster and build smarter with a developer data platform that helps solve your data challenges."
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "https://i.postimg.cc/PNG7mGtq/figma.png",
+    "description": "Figma Design is for people to create, share, and test designs for websites, mobile apps, and other digital products and experiences. It is a popular tool for designers, product managers, writers and developers and helps anyone involved in the design process contribute, give feedback, and make better decisions, faster."
+  }
+]

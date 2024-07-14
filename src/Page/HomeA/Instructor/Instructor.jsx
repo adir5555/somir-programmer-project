@@ -3,8 +3,8 @@ import SwiperA from '../Shaired/SwiperA/SwiperA';
 import './Instructo.css'
 const Instructor = () => {
   return (
-    <div className=''>
-      <div className="text-center">
+    <div className='my-20'>
+      <div className="text-center mb-20">
         <h1 className="text-5xl">Lead <span className="text-blue-600">Instructor</span></h1>
       </div>
 

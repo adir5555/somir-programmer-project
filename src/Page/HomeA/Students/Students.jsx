@@ -32,7 +32,7 @@ const Students = () => {
 
                   <div className="avatar">
                     <div className="ring-primary w-16 h-16  rounded-full ring">
-                      {/* <div className="ring-primary ring-offset-base-100  rounded-full ring ring-offset-2"> */}
+                    
                       <img src={clipes.image} alt="" />
                     </div>
 

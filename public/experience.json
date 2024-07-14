@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "role": "Senior Software Development Engineer SDE - II",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA,United State",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "https://i.postimg.cc/HL7B9Zhc/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "https://i.postimg.cc/pTfCg9xP/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "https://i.postimg.cc/wM92H6TL/netflix.png"
+  },
+  {
+    "id": 4,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Rewards And Recognition",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "You Are Not Just Enrolling In One Course. After Finishing The Course You Will Get Rewards Modules For Learning Advance And Latest Technology Crash Courses For Free Life Time."
+    ],
+    "imageSrc": "https://i.postimg.cc/sD6mdCFG/gift-box.png"
+  },
+  {
+    "id": 5,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "400+ Contents & 120 Modules",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Takes To Become A Junior Frontend Web Developer. The Course Is Divided Into 120 Modules & 400+ Recorded Contents For Step-By-Step Project Based Learning."
+    ],
+    "imageSrc": "https://i.postimg.cc/Cx945CxF/video-chat.png"
+  },
+  {
+    "id": 1,
+    "role": "Senior Software Development Engineer SDE - II",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA,United State",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "https://i.postimg.cc/HL7B9Zhc/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "https://i.postimg.cc/pTfCg9xP/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "https://i.postimg.cc/wM92H6TL/netflix.png"
+  },
+  {
+    "id": 4,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Rewards And Recognition",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "You Are Not Just Enrolling In One Course. After Finishing The Course You Will Get Rewards Modules For Learning Advance And Latest Technology Crash Courses For Free Life Time."
+    ],
+    "imageSrc": "https://i.postimg.cc/sD6mdCFG/gift-box.png"
+  },
+  {
+    "id": 5,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "400+ Contents & 120 Modules",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Takes To Become A Junior Frontend Web Developer. The Course Is Divided Into 120 Modules & 400+ Recorded Contents For Step-By-Step Project Based Learning."
+    ],
+    "imageSrc": "https://i.postimg.cc/Cx945CxF/video-chat.png"
+  },
+  {
+    "id": 1,
+    "role": "Senior Software Development Engineer SDE - II",
+    "organisation": "Google",
+    "startDate": "Sept, 2023",
+    "endDate": "Present",
+    "location": "CA,United State",
+    "experiences": [
+      "Worked on Google Gmail",
+      "Worked with the Google Bard Team"
+    ],
+    "imageSrc": "https://i.postimg.cc/HL7B9Zhc/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Development Engineer SDE - I",
+    "organisation": "Mirosoft",
+    "startDate": "Aug, 2022",
+    "endDate": "Aug, 2023",
+    "location": "London, UK",
+    "experiences": [
+      "Worked on Windows 10 terminal",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "https://i.postimg.cc/pTfCg9xP/microsoft.png"
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Netflix",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "https://i.postimg.cc/wM92H6TL/netflix.png"
+  },
+  {
+    "id": 4,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Rewards And Recognition",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "You Are Not Just Enrolling In One Course. After Finishing The Course You Will Get Rewards Modules For Learning Advance And Latest Technology Crash Courses For Free Life Time."
+    ],
+    "imageSrc": "https://i.postimg.cc/sD6mdCFG/gift-box.png"
+  },
+  {
+    "id": 5,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "400+ Contents & 120 Modules",
+    "startDate": "Apr, 2021",
+    "endDate": "Jun, 2022",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Nextflix payment system",
+      "Takes To Become A Junior Frontend Web Developer. The Course Is Divided Into 120 Modules & 400+ Recorded Contents For Step-By-Step Project Based Learning."
+    ],
+    "imageSrc": "https://i.postimg.cc/Cx945CxF/video-chat.png"
+  }
+]
