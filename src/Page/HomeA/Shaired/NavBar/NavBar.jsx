@@ -42,14 +42,9 @@ const NavBar = () => {
 
 
 
-    {/* <li> <Link to='/'>
-    <FaRegUserCircle className='text-white  text-3xl'></FaRegUserCircle>
-    </Link></li> */}
-
-
   </>
   return (
-    <div className="navbar -mt-24 border-b border-indigo-500  fixed max-w-screen-2xl   mx-auto bg-blue-900  ">
+    <div className="navbar -mt-24 border-b border-indigo-500  fixed bg-blue-900  ">
 
       <div className="navbar  ">
         <div className="dropdown">

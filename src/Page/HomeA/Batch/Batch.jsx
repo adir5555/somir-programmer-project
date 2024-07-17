@@ -7,7 +7,7 @@ const Batch = () => {
 
       <div className="swep">
         <div className="boxsw grid md:grid-cols-3  lg:grid-cols-4  my-9 bg-indigo-900  text-center py-16 
-        border border-indigo-500 rounded-md 
+        border  rounded-md 
          max-w-screen-xl mx-auto">
 
           {/*  */}

@@ -20,7 +20,7 @@ const WillLearn = () => {
 
        <div className="grid md:grid-cols-2 gap-5">
         {
-           skills.slice(0, 6).map( skil => <div key={skil._id} className=" bg-gray-600   rounded-lg ">
+           skills.slice(0, 10).map( skil => <div key={skil._id} className=" bg-gray-600   rounded-lg ">
             <figure className="px-10 pt-10">
               <img
                 src={skil.imageSrc}
